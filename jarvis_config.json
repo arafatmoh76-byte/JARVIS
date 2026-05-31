@@ -1,0 +1,16 @@
+{
+    "apps": {
+        "notepad": "notepad.exe",
+        "calculator": "calc.exe",
+        "browser": "chrome"
+    },
+    "websites": {
+        "google": "https://www.google.com",
+        "youtube": "https://www.youtube.com",
+        "github": "https://www.github.com",
+        "twitter": "https://www.twitter.com",
+        "stackoverflow": "https://www.stackoverflow.com"
+    },
+    "openweather_api": "YOUR_API_KEY_HERE",
+    "user_name": "sir"
+}

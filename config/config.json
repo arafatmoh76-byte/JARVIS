@@ -1,0 +1,14 @@
+{
+    "voice_enabled": true,
+    "screen_vision": true,
+    "memory_enabled": true,
+    "ollama_url": "http://localhost:11434",
+    "ollama_model": "mistral",
+    "speech_rate": 150,
+    "voice_engine": "pyttsx3",
+    "theme": "dark",
+    "ui_transparency": 0.95,
+    "auto_save_memory": true,
+    "max_memory_items": 100,
+    "available_models": ["mistral", "neural-chat", "dolphin-mixtral", "llama2"]
+}
